@@ -1,2 +1,2 @@
 #!/bin/bash
-cat script.sh  
+$ cat script.sh  
